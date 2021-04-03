@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vesalapu Rohit</h1>
 - 👋 Hi, I’m Rohit
+
 - 👀 I’m looking for a career in Data science.
+
 - 🌱 I’m currently working as a Software Engineer at DXC technology.
+
 - 📫 Please reach out to me here --> **vesalapurohit99@gmail.com**
   
 <!---
