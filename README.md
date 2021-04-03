@@ -8,9 +8,8 @@
 
 - 📫 Please reach out to me here --> **vesalapurohit99@gmail.com**
   
-  <i class="fas fa-envelope-square"></i>
-  
-  <i class="fab fa-linkedin"></i>
+  [linkedin] : https://www.linkedin.com/in/rohit-vesalapu/
+  [Mail] : https://mail.google.com/mail/u/0/#inbox
   
 <!---
 vesalapu/vesalapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
