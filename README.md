@@ -8,12 +8,9 @@
 
 - 📫 Please reach out to me here --> **vesalapurohit99@gmail.com**
   
-  [linkedin] : https://www.linkedin.com/in/rohit-vesalapu/
-  [Mail] : https://mail.google.com/mail/u/0/#inbox
   
-  [linkedin]: https://www.linkedin.com/in/manish-sharma-355ba3189/
-[Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=monalmonal007@gmail.com.com&su=SUBJECT&body=BODY&tf=1
-[Instagram]: https://www.instagram.com/lucifer_x007/
+[<img align="left" alt="Rohit Vesalapu | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Rohit Vesalapu | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
 
   
   
