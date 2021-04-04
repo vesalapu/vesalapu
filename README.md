@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vesalapu Rohit</h1>
 
-- 👋 Hi, I’m Rohit
+
+- 👋 Hello, I’m Rohit
 
 - 👀 I’m looking for a career in Data science.
 
