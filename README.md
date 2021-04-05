@@ -8,12 +8,11 @@
 
 - 📫 Please reach out to me here: **vesalapurohit99@gmail.com**
  
-- 💻 All of my projects are available at [vesalapu](https://rahuldkjain.github.io)
   
- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rohit-vesalapu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohit-vesalapu" height="30" width="40" /></a>
-
+<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail.svg" alt="rohit-vesalapu" height="30" width="40" /></a>
 </p> 
    
 
