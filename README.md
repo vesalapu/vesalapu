@@ -25,8 +25,7 @@
    
 </p>
 
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=vesalapu" />
+  <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=vesalapu&show_icons=true alt=vesalapu /> </p>
   
 <!---
 vesalapu/vesalapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
