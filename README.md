@@ -8,6 +8,7 @@
 
 - 📫 Please reach out to me here: **vesalapurohit99@gmail.com**
  
+ - 👯 I’m looking to collaborate on datascience projects.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
