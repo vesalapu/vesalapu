@@ -25,7 +25,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
    
 </p>
-   <h2 align="center">:zap: Languages Used </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesalapu&layout=compact&bg_color=ffffff&text_color=333333">
 </p>
