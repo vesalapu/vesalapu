@@ -30,7 +30,7 @@
   
   <h2 align="center">:zap: Languages Used </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&layout=compact&bg_color=ffffff&text_color=333333">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesalapu&layout=compact&bg_color=ffffff&text_color=333333">
 </p>
   
 <!---
