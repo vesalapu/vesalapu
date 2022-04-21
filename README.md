@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m Rohit
 
-- 🌱 I’m currently working as a Software Engineer at DXC technology.
+- 🌱 I’m currently working as a Data Scientist at DXC technology.
 
-- 👀 I’m looking for a career in Data science.
+- 👀 I’m looking for learning and exploring new things in Data science.
 
 - 📫 Please reach out to me here: **vesalapurohit99@gmail.com**
  
